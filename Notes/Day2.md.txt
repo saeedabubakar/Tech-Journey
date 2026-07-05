@@ -1,0 +1,14 @@
+1) What is a variable?
+  variable is the container that holds specific values
+2) What are the four data types?
+  - string = names
+  - integer = numbers
+  - float = numbers with decimal
+  - boolean = true or false
+3) What does print() do?
+  It tells the program to display a value
+4) What does input() do?
+  The program ask the user to insert an information
+5) Why are good variable namees important?
+  It help you or another person to understand the code after a while.
+  It's more of helping your future self. 

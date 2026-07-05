@@ -1,0 +1,16 @@
+1) What is a computer?
+   A computer is an electronics device, it's fast but requires an input to produce desired output.
+   Or a computer is an electronic device that is incredibly fast but can't work on it's own, it always requires instruction.
+2) What is a program?
+   Program is the set of instruction that tells a computer what to do.
+3) What is an algorithm?
+   Algorithm is a step by step procedure of solving a problem
+4) What are four problem-solving step?
+  -understand the problem
+  -plan the solution the problem
+  -c0de
+  -testing
+5) one thing i have learn today?
+   I came to realise what really a computer is and i learn the techniques of solving problem
+6) One question i still have?
+   A computer can only be an electronic device or it can be otherwise

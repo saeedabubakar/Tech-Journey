@@ -1,0 +1,1 @@
+This folder contains all the projects i have made in my Tech-journey

@@ -1,0 +1,1 @@
+This folder contains my AI learning materials and projects

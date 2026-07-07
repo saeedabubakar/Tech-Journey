@@ -12,3 +12,5 @@
 5) What is the difference between "5" and 5?
    "5" is an input. and when printed it stays the same.
     5 is a variable.
+
+ 

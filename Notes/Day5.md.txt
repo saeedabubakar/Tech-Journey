@@ -1,0 +1,34 @@
+1) What is a loop?
+   Loop used to runs program repeatedly untill the the condition is false.     
+
+2) Difference between for and while.
+   for knows exactly the start and stop of the program. While
+   while the program run and doesn't stop untill the condition is false 
+
+3) What does range() do?
+   tells python the starting, ending, and format to run the program.
+
+4) What is an infinite loop?
+   repeatedly runs program and never end.
+
+5) Why id count += 1 important?
+   count += 1 changes the value of count after each iteration so that the condition eventually becomes false and the loop stops.
+
+6) What does range(1, 6) produce?
+   1 
+   2
+   3
+   4
+   5
+
+7) What does range (10, 0, -1) produce?
+   10
+   9
+   8
+   7
+   6
+   5
+   4
+   3
+   2
+   1

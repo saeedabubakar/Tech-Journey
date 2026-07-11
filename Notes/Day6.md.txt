@@ -1,0 +1,28 @@
+1) What is a list?
+   A list stores many values inside one variable. it access the values using their index, and uses [].  
+
+2) Why does python start indexing from 0?
+   Because python starts counting from 0. it follows a zero-based indexing.
+
+3) Differnce between a list and a tuple.
+   List can be change after created and it uses []. WHILE
+   tuples cannot be changed when it's created and uses (). 
+
+4) Differnce between  a list and a set.  
+   List keeps duplicate and keep the items in order and uses []. WHILE
+   Sets are different they don't allow duplicates and don't keep items in order. it uses {}.
+
+5) What does .append() do?
+   It is used for adding item(s) to a list.
+
+6) What does .remove() do?
+   It is used for removig item(s) from a list.
+
+7) How do you loop through a list?
+   We simply write this:
+   
+   supposed
+   fruits = ["Apple", "Banana", "Mango"]
+   
+   for fruit in fruits:
+    print(fruit). 

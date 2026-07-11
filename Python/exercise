@@ -1,0 +1,11 @@
+expenses = []
+num = int(input("how many expenses do you have: "))
+for i in range(num):
+    expense = int(input("enter expense: "))
+    expenses.append(expense)
+total = sum(expenses)
+average = total / len(expenses)
+print(f"expenses: {expenses}")
+print(f"total expenses: {total}")
+print(f"average expense: {average:.2f}")
+

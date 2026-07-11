@@ -1,0 +1,24 @@
+1) What is a dictionary?
+   Dictionary is a collection of data stored in a key-value pairs. it uses keys instead of index numbers to access values.
+
+2) What is key?
+   A key is used to categorize or identify values in a dictionary.
+
+3) What is value?
+   Value is the data assigned to a key.
+
+4) Difference between a list and a dictionary.
+   Dictionary stores data in a key-value pairs and access the values using keys. and dictionariy uses {}. WHILE
+   List stores and access data using index numbers. and uses [].
+
+5) How do you add a new item to a dictionary?
+   supposed the item we want to is "level" : "400" in student dictionary:
+   student["level"] = 400
+
+6) How do you change an existing value?
+   supposed the existing value is "year" : "2024" in student dictionary and we want to change it to 2025:
+   student["year"] = 2025
+
+7) How do you remove an item?
+   Supposed we want remove year from student dictionary:
+   del student["year"]

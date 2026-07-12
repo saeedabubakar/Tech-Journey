@@ -1,0 +1,18 @@
+1) What is a function?
+   Function is a named block of code that performs a specific task.
+
+2) Why do programmers use functions?
+   It makes code easier to maintain and save time.
+
+3) What does def mean?
+   It is used to define a function.
+
+4) How do you call a function
+   supposed the funtion is def hello():
+   hello().
+
+5) What is a parameter?
+   Parameter is the input in a function parentheses.
+
+6) What does return do?
+   Return gives a value back instead of printing. 

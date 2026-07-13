@@ -1,0 +1,24 @@
+1) What is a string?
+   string is simply a text.
+
+2) What is indexing?
+   Indexing is used to access characters using their index number.  
+
+3) What is slicing?
+   Slicing let's you take part of a string. it includes the start but excludes the end.   
+
+4) Differnce between positive and negative indexing.
+   Positive indexing starts indexing from the begining to the beginning of a text. WHILE
+   Negative indexing starts indexing from the end to the beginning of a text
+
+5) What does .upper() do?
+   It makes the all string uppercase.
+
+6) What does .title() do?
+   It capitalize each word.
+
+7) What does .len() do? 
+   It count the characters.  
+
+8) What does in do?
+   It checks if the text exist.

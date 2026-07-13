@@ -3,5 +3,3 @@ def average(a, b, c):
 result = average(80, 70, 90)
 print(f"The average score is {result:.2f}")
 
-    
-

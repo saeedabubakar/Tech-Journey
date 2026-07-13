@@ -1,0 +1,7 @@
+first_name = input("First name: ")
+last_name = input("Last name: ")
+print(f"Full Name: {first_name.title()} {last_name.title()}")
+print(f"Total characters: {len(first_name + last_name)}")
+print(f"Uppercase: {first_name.upper()} {last_name.upper()}")
+print(f"Lowercase: {first_name.lower()} {last_name.lower()}")
+print(f"Title: {first_name.title()} {last_name.title()}")

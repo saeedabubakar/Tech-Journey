@@ -1,0 +1,15 @@
+1) What is return?
+   Return gives a value back and the user decides what to do with it. and it can reused.
+
+2) Difference between print() and return.
+   Print() displays something on the screen and can't be reused. WHILE
+   Return gives a value back and can be reused.
+
+3) What is a local variable?
+   A variable that is created iside a function and cannot work independently.
+
+4) What is a global variable?
+   Global variable is a variable created outside a function. it can work independently or inside the function.
+
+5) Why do programmers use return?
+   Because it makes work flexible and reusable unlike print it can't be reused. 

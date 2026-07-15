@@ -1,0 +1,17 @@
+1) What is a file?
+  File is a place where data is stored on a computer.
+
+2) What does "r" do?
+   "r" means read mode.
+
+3) What does "w" do?
+   "w" means write mode. when used and already the file contains text it automatically replace the old text with the new one  
+
+4) What does "a" do?
+   "a" means append mode. is used when adding text to an existing file.
+
+5) Why is with open() recommended?
+   Because you don't have to close a file(file.close()), it closes automatically.
+
+6) Why are files important in programming?
+   Because files store your data so they are still available when needed. and without it everything disappears when the program ends.

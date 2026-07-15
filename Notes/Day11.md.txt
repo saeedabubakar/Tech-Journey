@@ -1,0 +1,20 @@
+1) What is a tuple?
+   Tuple is a collection of items that can't be modified after created.
+   it uses ().
+
+2) What does "immutable" mean?
+   Means once created, they can't be changed.
+
+3) Difference between a list and a tuple.
+   list can be changed. WHILE,
+   Tuples can't be modified after created.
+
+4) What is a set?
+   Set is a collection of items that automatically remove duplicates. it leaves only unique values and has no fixed order but it is changeable.
+ 
+
+5) Why do programmers use sets?
+   When they need a collection of values that doesn't allow duplicate and it's changeable. 
+
+6) Can sets use indexes? why or why not?
+   No. because sets have no fixed order.

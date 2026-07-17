@@ -1,2 +1,4 @@
-with open("names.txt", "r") as file:
-    print(file.read())
+name = input("Enter your name: ")
+with open("names.txt", "a") as file:
+    file.write(f"{name} \n")
+    

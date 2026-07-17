@@ -1,0 +1,23 @@
+1) What is an error?
+   Error is mistake in a program that causes it to behave unexpectedly or to stop running.
+
+2)What does try do?
+  The try block encloses code that might raise an error. if an error occurs within the block, the program doesn't crash immediately.
+
+3) What does except do?
+   The except block catches specific errors that occur in the try block and allows you to handle them, preventing the program from terminating.
+
+4) What is ValueError?
+   This happens when you give a program it doesn't expect, even if it's the right kind of thing.
+
+5) What does ZeroDivisionError?
+   This happens when you tried to divide a number by zero, which is not allowed.
+
+6) What does else do?
+   The else part runs only if everything in the try part worked perfectly.
+
+7) What does finally do?
+   The finally part runs, no matter what.
+
+8) Why is exception handling useful?
+   It's useful because it stops a program from crashing when there's a mistake and helps handle errrors, making program work better.

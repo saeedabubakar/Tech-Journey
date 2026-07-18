@@ -1,0 +1,21 @@
+1) What is a module?
+   Module is a python file containing reusable code.
+
+2) What does import do?
+   Import is used to bring in code from a module. 
+
+3) What is a built-in module?
+   Built-in module is a module that comes with python. 
+
+4) What does import math allow you to do?
+   It allows you to import the built-in math module of python.
+
+5) What is the difference between import math and from math import sqrt?
+   Import math imports the entire math module. WHILE
+   From math import sqrt imports a specific function.
+
+6) Why are custom modules useful?
+   Custom modules help organize code, promote reuse, and make programs easier to manage and debug.   
+
+7) Why should large programs be divided into multiple file?
+   Dividing large programs into multiple files make it easier to manage, understand, and debug.

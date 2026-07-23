@@ -7,3 +7,4 @@ sub_result = tools.subtract(first_num, second_num)
 print(f"Subtraction: {sub_result}")
 mult_result = tools.multiply(first_num, second_num)
 print(f"Multiplication: {mult_result}")
+

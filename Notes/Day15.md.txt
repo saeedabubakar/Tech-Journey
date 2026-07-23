@@ -1,0 +1,17 @@
+1) Why do large programs use mutiple files?
+   To keep code organized, easier to mange and update.
+
+2) Why are functions useful?
+   Because they are reusable and makes program cleaner and simpler.
+
+3) Why is a dictionary good for one student?
+   Because it is good for storing and finding specific data using labels.
+
+4) Why is list good for many students?
+   Because it is good for ordered collections of items, like student names and scores. 
+
+5) Why do we save information in a file?
+   Because it keeps data safe and available even when the program isn't running.
+
+6) Why is exception handling important?
+   It manages errors smoothly so programs don't crash. 
